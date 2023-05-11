@@ -15,7 +15,7 @@ export const dogs = [
     owner: "Sheldon",
     image:
       "https://www.hogarmania.com/archivos/201809/corgi-gales-pembroke-668x400x80xX.jpg",
-    vaccines: true,
+    vaccines: false,
   },
   {
     name: "Coco",
@@ -33,7 +33,7 @@ export const dogs = [
     owner: "Howard",
     image:
       "https://www.hogarmania.com/archivos/201105/carlino-xl-321x171x80xX.jpg",
-    vaccines: true,
+    vaccines: false,
   },
   {
     name: "Bella",
